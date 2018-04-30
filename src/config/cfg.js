@@ -1,3 +1,3 @@
 export default {
-    WS: "http://192.168.1.234:3000"
+    WS: "http://ec2-18-219-107-101.us-east-2.compute.amazonaws.com:3000"
 }
